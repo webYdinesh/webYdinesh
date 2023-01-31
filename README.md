@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dinesh Singh Bisht</h1>
 <h3 align="center"><🔥>Enthusiastic Programmer<🔥></h3>
-<img src="https://i.postimg.cc/15RBWCrB/90189-coding.gif" align="right" width="500" />
+<img src="https://i.postimg.cc/15RBWCrB/90189-coding.gif" align="right" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webydinesh&label=Profile%20views&color=0e75b6&style=flat" alt="webydinesh" /> </p>
 
