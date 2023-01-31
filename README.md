@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinesh Singh Bisht</h1>
-<h3 align="center"><>Enthusiastic Programmer</></h3>
+<h3 align="center"><🔥>Enthusiastic Programmer<🔥></h3>
 
-<img align="right" width="300px" src="https://i.postimg.cc/15RBWCrB/90189-coding.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webydinesh&label=Profile%20views&color=0e75b6&style=flat" alt="webydinesh" /> </p>
 
-- 🔭 I’m currently working on **Improving Skills Through Projects.**
+- 🎯 I’m currently Focusing on **Improving Skills Through Projects.**
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
